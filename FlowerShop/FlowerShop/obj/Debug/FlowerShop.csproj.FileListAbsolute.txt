@@ -1,0 +1,68 @@
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.AssemblyReference.cache
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.LoginForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.Properties.Resources.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.RegisterForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.GenerateResource.cache
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.CoreCompileInputs.cache
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.AuthForm.resources
+H:\УП\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe.config
+H:\УП\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe
+H:\УП\FlowerShop\FlowerShop\bin\Debug\FlowerShop.pdb
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.exe
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.pdb
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.CartForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.CatalogForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrderDetailForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrderDetailsForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrderForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrderListForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.ProductForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.ProductListForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.UserForm.resources
+H:\УП\FlowerShop\FlowerShop\obj\Debug\FlowerShop.UserListForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.AssemblyReference.cache
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.exe
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.pdb
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe.config
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\FlowerShop.exe
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\FlowerShop.pdb
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.AuthForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.CartForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.CatalogForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.LoginForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrderDetailForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrderDetailsForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrderForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.OrderListForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.ProductForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.ProductListForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.Properties.Resources.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.RegisterForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.UserForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.UserListForm.resources
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.GenerateResource.cache
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\Castle.Core.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\Moq.AutoMock.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\Moq.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\NonBlocking.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\System.ValueTuple.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\xunit.abstractions.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\xunit.assert.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\xunit.core.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\xunit.execution.desktop.dll
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\Castle.Core.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\Moq.AutoMock.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\NonBlocking.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\System.ValueTuple.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\xunit.abstractions.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\xunit.assert.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\xunit.core.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\bin\Debug\xunit.execution.desktop.xml
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop\obj\Debug\FlowerShop.csproj.CopyComplete

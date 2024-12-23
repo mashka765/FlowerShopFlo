@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerShop", "FlowerShop\FlowerShop.csproj", "{FD467A61-8C84-4285-AF56-19B1547AD9AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerShop.Tests", "FlowerShop.Tests\FlowerShop.Tests.csproj", "{D4034C23-71A7-4DAA-A931-9930B71EB134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD467A61-8C84-4285-AF56-19B1547AD9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD467A61-8C84-4285-AF56-19B1547AD9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD467A61-8C84-4285-AF56-19B1547AD9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD467A61-8C84-4285-AF56-19B1547AD9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4034C23-71A7-4DAA-A931-9930B71EB134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4034C23-71A7-4DAA-A931-9930B71EB134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4034C23-71A7-4DAA-A931-9930B71EB134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4034C23-71A7-4DAA-A931-9930B71EB134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48ED11BB-BAC5-44C9-B907-B7E71688216A}
+	EndGlobalSection
+EndGlobal

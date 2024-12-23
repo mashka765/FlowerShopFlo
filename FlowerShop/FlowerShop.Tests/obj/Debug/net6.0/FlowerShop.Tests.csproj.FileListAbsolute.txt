@@ -1,0 +1,5 @@
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop.Tests\obj\Debug\net6.0\FlowerShop.Tests.csproj.AssemblyReference.cache
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop.Tests\obj\Debug\net6.0\FlowerShop.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop.Tests\obj\Debug\net6.0\FlowerShop.Tests.AssemblyInfoInputs.cache
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop.Tests\obj\Debug\net6.0\FlowerShop.Tests.AssemblyInfo.cs
+C:\Users\МАША\Desktop\УП 2024\FlowerShop\FlowerShop.Tests\obj\Debug\net6.0\FlowerShop.Tests.csproj.CoreCompileInputs.cache
